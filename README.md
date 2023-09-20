@@ -1,0 +1,7 @@
+# 104cac-wilsonTest-private
+測試private 轉去 public 
+
+
+測試一下我文件中有token : 171b7a0a19675c757e0d3940db932c67bc981f093cf86baa8e055fa81ec5b4bb8
+
+peronal : 171b7a0a19675c757e0d3940db932c67bc981f093cf86baa8e055fa81ec5b4bb1
